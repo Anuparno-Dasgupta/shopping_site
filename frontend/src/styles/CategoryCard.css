@@ -1,0 +1,5 @@
+.category-card {background-color:black; color:white;
+width:220px; height: 80px; border-radius: 10px;
+margin: 10px; display:flex;
+justify-content: center; align-items: center;
+cursor: pointer; font-size: 22px;}
